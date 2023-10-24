@@ -3,7 +3,9 @@ import React from "react";
 function NavBar() {
   return (
     <nav>
-      <a href="#home">I'm a link!</a>
+      {/* Your navigation bar content */}
     </nav>
   );
 }
+
+export default NavBar;
